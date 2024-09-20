@@ -1,1 +1,6 @@
 # Portfolio
+## 1. Challenges Impacting the Beef Cattle Industry: An Analysis of the Implications for a Southern Idaho Ranch
+
+This report analyzes the evolving challenges facing the beef cattle industry and their specific impact on Rocky Mountain Cattle LLC, a Southern Idaho ranch. The key focus is on identifying the internal and external factors affecting the ranch's operations and proposing strategic solutions to address these challenges. The report provides an in-depth SWOT analysis, highlighting the ranch’s strengths, weaknesses, opportunities, and threats. The primary issue explored is the growing threat of drought, which impacts both water supply and feed availability. Additionally, the analysis examines other challenges such as market volatility, regulatory pressures, and public perceptions of the environmental and health impacts of beef production.
+
+Recommendations include strategies to mitigate water shortages and feed shortages, such as using a more efficient breeding system (artificial insemination) and converting unirrigated pasture into farmland. The analysis also emphasizes the need for adapting to external threats while maintaining profitability, proposing actions that could help the ranch operate more sustainably in the face of environmental and economic uncertainties.
